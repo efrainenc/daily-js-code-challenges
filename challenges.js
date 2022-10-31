@@ -37,7 +37,7 @@ addOne(-5) //=> -4
 function addOne(i){
   return i+1;
 }
- console.log(addOne(1));
+console.log(addOne(1));
 
 
 /*-----------------------------------------------------------------
